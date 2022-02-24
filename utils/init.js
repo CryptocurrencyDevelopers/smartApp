@@ -46,7 +46,7 @@ const cliHelpText = () => {
 	};
 
 	const helpText = meowHelp({
-		name: `new-tailwind-app`,
+		name: `smartApp`,
 		commands,
 		flags
 	});
